@@ -53,7 +53,7 @@ function Main({ onEditProfile, onAddPlace, onEditAvatar, onCardClick }) {
             />
           ))}
         </ul>
-        
+
       </section>
     </main>
 
@@ -61,9 +61,6 @@ function Main({ onEditProfile, onAddPlace, onEditAvatar, onCardClick }) {
 }
 
 export default Main; 
-
-
-//    <section className="popup" id="popupEditProfile">
 //         <div className="popup__container">
 //          <h2 className="popup__title">Редактировать профиль</h2>
 //           <form name="popupEditProfile" className="popup__inputs popup__inputs_edit-profile" novalidate>

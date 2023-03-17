@@ -124,13 +124,13 @@ function App() {
         />
         <span className="popup__input-error" id="urlAvatar-error" />
       </PopupWithForm> 
-
+      
       {/* <PopupWithForm
         name="popupConfirm"
         title="Вы уверены?"
         onClose={closeAllPopups}
         buttonText="Да"
-      /> */}
+      />  */}
 
     </div>
   )
